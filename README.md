@@ -11,7 +11,7 @@ Monitoring threats • Analyzing logs • Detecting anomalies
 
 ## 🧠 About Me
 
-I am a final-year Computer Engineering student focused on cybersecurity, specifically in Security Operations Center (SOC) roles, threat detection, and system-level security.
+I am a Computer Engineering student focused on cybersecurity, specifically in Security Operations Center (SOC) roles, threat detection, and system-level security.
 
 I have hands-on experience in SIEM implementation, log analysis, and vulnerability assessment, along with real-world exposure through my internship at Physical Research Laboratory (ISRO).
 
